@@ -39,5 +39,15 @@ namespace FrontEndMVC.Controllers
             }
             return View(contato);
         }
+
+        public IActionResult Editar(int id)
+        {
+            var contato = _context.Contatos.Find(id);
+
+            if(contato --null)
+            return RedirectToAction(nameof(Index));
+
+            return View(contato);
+        }
     }
 }
