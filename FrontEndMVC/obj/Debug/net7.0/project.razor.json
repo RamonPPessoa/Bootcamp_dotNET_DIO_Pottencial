@@ -16570,6 +16570,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\ramon\\Documents\\cursosDIO\\dotNET\\Bootcamp\\Pottencial_dotNet\\FrontEndMVC\\Views\\Contato\\Deletar.cshtml",
+      "TargetPath": "Views\\Contato\\Deletar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ramon\\Documents\\cursosDIO\\dotNET\\Bootcamp\\Pottencial_dotNet\\FrontEndMVC\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
