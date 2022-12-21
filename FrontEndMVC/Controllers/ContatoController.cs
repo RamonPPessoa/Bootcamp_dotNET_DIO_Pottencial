@@ -44,7 +44,7 @@ namespace FrontEndMVC.Controllers
         {
             var contato = _context.Contatos.Find(id);
 
-            if(contato --null)
+            if(contato == null)
             return RedirectToAction(nameof(Index));
 
             return View(contato);
@@ -53,7 +53,7 @@ namespace FrontEndMVC.Controllers
         [HttpPost]
         public IActionResult Editar(Contato contato)
         {
-            var cotatoBanco = _context.Contatos.Find(contato.Id);
+            var contatoBanco = _context.Contatos.Find(contato.Id);
             contatoBanco.Nome = contato.Nome;
             contato.Telefone = contato.Telefone;
             contatoBanco.Ativo = contato.Ativo;
@@ -62,6 +62,14 @@ namespace FrontEndMVC.Controllers
             _context.SaveChanges();
 
             return RedirectToAction(nameof(Index));
+        }
+        public IActionResult Detalhes(int id)
+        {
+            var contato = _context.Contatos.Find(id);
+
+            if(contato == null)
+                return RedirectToAction(nameof(Index));
+            return View(contato);
         }
     }
 }
