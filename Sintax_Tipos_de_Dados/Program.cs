@@ -1,20 +1,34 @@
 ﻿using Sintax_Tipos_de_Dados.Models;
  
 
-string apresentacao = "Bootcamp .NET";
+ // Utilizando a classe DateTime para exibir a data atual
+DateTime dataAtual = DateTime.Now;
 
-int quantidade = 1;
-double altura = 1.70;
-decimal preco = 1.80M;
-
-bool condicao = true;
+Console.WriteLine(dataAtual);
+Console.WriteLine(dataAtual.ToString("dd/MM/yyyy"));
 
 
-Console.WriteLine(apresentacao);
-System.Console.WriteLine("Valor da quantidade: " + quantidade);
-System.Console.WriteLine("Valor da altura: " + altura.ToString("0.00"));
-System.Console.WriteLine("Valor do preço: " + preco);
-System.Console.WriteLine("A condição é: " + condicao);
+
+
+
+
+
+
+
+// string apresentacao = "Bootcamp .NET";
+
+// int quantidade = 1;
+// double altura = 1.70;
+// decimal preco = 1.80M;
+
+// bool condicao = true;
+
+
+// Console.WriteLine(apresentacao);
+// System.Console.WriteLine("Valor da quantidade: " + quantidade);
+// System.Console.WriteLine("Valor da altura: " + altura.ToString("0.00"));
+// System.Console.WriteLine("Valor do preço: " + preco);
+// System.Console.WriteLine("A condição é: " + condicao);
 
 
 
