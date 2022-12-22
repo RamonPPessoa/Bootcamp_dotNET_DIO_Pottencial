@@ -1,0 +1,15 @@
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Sintax_Tipos_de_Dados\bin\Debug\net7.0\Sintax_Tipos_de_Dados.exe
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Sintax_Tipos_de_Dados\bin\Debug\net7.0\Sintax_Tipos_de_Dados.deps.json
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Sintax_Tipos_de_Dados\bin\Debug\net7.0\Sintax_Tipos_de_Dados.runtimeconfig.json
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Sintax_Tipos_de_Dados\bin\Debug\net7.0\Sintax_Tipos_de_Dados.dll
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Sintax_Tipos_de_Dados\bin\Debug\net7.0\Sintax_Tipos_de_Dados.pdb
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Sintax_Tipos_de_Dados\obj\Debug\net7.0\Sintax_Tipos_de_Dados.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Sintax_Tipos_de_Dados\obj\Debug\net7.0\Sintax_Tipos_de_Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Sintax_Tipos_de_Dados\obj\Debug\net7.0\Sintax_Tipos_de_Dados.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Sintax_Tipos_de_Dados\obj\Debug\net7.0\Sintax_Tipos_de_Dados.AssemblyInfo.cs
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Sintax_Tipos_de_Dados\obj\Debug\net7.0\Sintax_Tipos_de_Dados.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Sintax_Tipos_de_Dados\obj\Debug\net7.0\Sintax_Tipos_de_Dados.dll
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Sintax_Tipos_de_Dados\obj\Debug\net7.0\refint\Sintax_Tipos_de_Dados.dll
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Sintax_Tipos_de_Dados\obj\Debug\net7.0\Sintax_Tipos_de_Dados.pdb
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Sintax_Tipos_de_Dados\obj\Debug\net7.0\Sintax_Tipos_de_Dados.genruntimeconfig.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Sintax_Tipos_de_Dados\obj\Debug\net7.0\ref\Sintax_Tipos_de_Dados.dll
