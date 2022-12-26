@@ -1,0 +1,15 @@
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\TiposOperadores\bin\Debug\net7.0\TiposOperadores.exe
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\TiposOperadores\bin\Debug\net7.0\TiposOperadores.deps.json
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\TiposOperadores\bin\Debug\net7.0\TiposOperadores.runtimeconfig.json
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\TiposOperadores\bin\Debug\net7.0\TiposOperadores.dll
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\TiposOperadores\bin\Debug\net7.0\TiposOperadores.pdb
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\TiposOperadores\obj\Debug\net7.0\TiposOperadores.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\TiposOperadores\obj\Debug\net7.0\TiposOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\TiposOperadores\obj\Debug\net7.0\TiposOperadores.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\TiposOperadores\obj\Debug\net7.0\TiposOperadores.AssemblyInfo.cs
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\TiposOperadores\obj\Debug\net7.0\TiposOperadores.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\TiposOperadores\obj\Debug\net7.0\TiposOperadores.dll
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\TiposOperadores\obj\Debug\net7.0\refint\TiposOperadores.dll
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\TiposOperadores\obj\Debug\net7.0\TiposOperadores.pdb
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\TiposOperadores\obj\Debug\net7.0\TiposOperadores.genruntimeconfig.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\TiposOperadores\obj\Debug\net7.0\ref\TiposOperadores.dll
