@@ -1,4 +1,15 @@
 ﻿
+// Convertendfo tipos com segurança
+
+System.Console.WriteLine("Convertendo tipos de maneira segura");
+string y = "10-c";
+
+int x = 0;
+int.TryParse(y, out x);
+
+System.Console.WriteLine(x);
+System.Console.WriteLine("Conversão com sucesso");
+
 //Cast implicito
 int n1 = 5;
 double n2 = n1;
