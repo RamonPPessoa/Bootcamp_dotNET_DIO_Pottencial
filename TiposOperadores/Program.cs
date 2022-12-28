@@ -1,13 +1,20 @@
-﻿// Cast - casting
+﻿int inteiro = 5;
+string a = inteiro.ToString();
 
-int a = Convert.ToInt32(null); // Mais apropriado usar o Convert pois o mesmo aceita valores nulos (null)
+Console.WriteLine(a);
+
+
+
+// Cast - casting
+
+//int a = Convert.ToInt32(null); // Mais apropriado usar o Convert pois o mesmo aceita valores nulos (null)
 
 //Casting convertendo tipos de variáveis
 
 
 
  //int a = int.Parse("5"); // o Parse não aceita null
-  Console.WriteLine(a);
+  //Console.WriteLine(a);
 
 
 
