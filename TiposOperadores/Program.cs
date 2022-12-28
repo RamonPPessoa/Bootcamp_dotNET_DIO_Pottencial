@@ -1,4 +1,13 @@
-﻿int inteiro = 5;
+﻿
+//Cast implicito
+int n1 = 5;
+double n2 = n1;
+
+System.Console.WriteLine(n2);
+
+
+// Conversão para string
+int inteiro = 5;
 string a = inteiro.ToString();
 
 Console.WriteLine(a);
