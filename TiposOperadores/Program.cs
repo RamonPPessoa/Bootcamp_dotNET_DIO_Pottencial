@@ -1,5 +1,29 @@
-﻿
-// Convertendfo tipos com segurança
+﻿// OPERADORES CONDICIONAIS
+
+System.Console.WriteLine("----------- Inicio de operadores lógicos -------------------");
+
+ int quantidadeNoEstoque = 15;
+ int quantidadeDeCompra = 5;
+ bool vendaPossivel = quantidadeNoEstoque >= quantidadeDeCompra;
+
+ System.Console.WriteLine($"\nQuantidade no estoque: {quantidadeNoEstoque}");
+ System.Console.WriteLine($"Quantidade  de compra: {quantidadeDeCompra}");
+ System.Console.WriteLine($"É possivel efetuar a venda?  {vendaPossivel}");
+
+
+ if (vendaPossivel)
+ {
+  System.Console.WriteLine("Venda efetuada ");
+ }
+ else
+ {
+  System.Console.WriteLine("Desculpe,no momento não temos a quanitdade solicitada em nosso estoque");
+ }
+
+System.Console.WriteLine(" ----------- Fim de operadores lógicos ---------------");
+
+
+// Convertendo tipos com segurança
 
 System.Console.WriteLine("Convertendo tipos de maneira segura");
 string y = "10-c";
