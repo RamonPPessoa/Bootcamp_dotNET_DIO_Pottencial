@@ -3,21 +3,29 @@
 System.Console.WriteLine("----------- Inicio de operadores lógicos -------------------");
 
  int quantidadeNoEstoque = 15;
- int quantidadeDeCompra = 5;
- bool vendaPossivel = quantidadeNoEstoque >= quantidadeDeCompra;
+ int quantidadeDeCompra = 0;
+ bool vendaPossivel = quantidadeDeCompra > 0 && quantidadeNoEstoque >= quantidadeDeCompra;
 
  System.Console.WriteLine($"\nQuantidade no estoque: {quantidadeNoEstoque}");
  System.Console.WriteLine($"Quantidade  de compra: {quantidadeDeCompra}");
  System.Console.WriteLine($"É possivel efetuar a venda?  {vendaPossivel}");
 
+if(quantidadeDeCompra == 0) 
+{
+
+}
 
  if (vendaPossivel)
  {
   System.Console.WriteLine("Venda efetuada ");
  }
- else
+ else if(vendaPossivel)
  {
   System.Console.WriteLine("Desculpe,no momento não temos a quanitdade solicitada em nosso estoque");
+ }
+ else
+ {
+  System.Console.WriteLine("desculpe não temos a quantidade solicitada");
  }
 
 System.Console.WriteLine(" ----------- Fim de operadores lógicos ---------------");
