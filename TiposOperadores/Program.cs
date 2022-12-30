@@ -1,4 +1,30 @@
-﻿// OPERADORES CONDICIONAIS
+﻿// Utilizando Switch case
+
+Console.WriteLine("============== Utilizando Switch case ====================");
+
+System.Console.WriteLine("Digite uma letra");
+string letra =  Console.ReadLine();
+
+
+switch (letra)
+{
+  case "a":
+  case "e":
+  case "i":
+  case "o":
+  case "u":
+    System.Console.WriteLine("è vogal");
+    break;
+
+  default:
+    System.Console.WriteLine("Não é vogal");
+    break;
+  
+  default:
+}
+
+
+// OPERADORES CONDICIONAIS
 
 System.Console.WriteLine("----------- Inicio de operadores lógicos -------------------");
 
