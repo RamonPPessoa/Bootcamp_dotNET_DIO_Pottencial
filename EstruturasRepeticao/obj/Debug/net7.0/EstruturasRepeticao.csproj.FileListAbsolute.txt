@@ -1,0 +1,15 @@
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\EstruturasRepeticao\bin\Debug\net7.0\EstruturasRepeticao.exe
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\EstruturasRepeticao\bin\Debug\net7.0\EstruturasRepeticao.deps.json
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\EstruturasRepeticao\bin\Debug\net7.0\EstruturasRepeticao.runtimeconfig.json
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\EstruturasRepeticao\bin\Debug\net7.0\EstruturasRepeticao.dll
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\EstruturasRepeticao\bin\Debug\net7.0\EstruturasRepeticao.pdb
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\EstruturasRepeticao\obj\Debug\net7.0\EstruturasRepeticao.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\EstruturasRepeticao\obj\Debug\net7.0\EstruturasRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\EstruturasRepeticao\obj\Debug\net7.0\EstruturasRepeticao.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\EstruturasRepeticao\obj\Debug\net7.0\EstruturasRepeticao.AssemblyInfo.cs
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\EstruturasRepeticao\obj\Debug\net7.0\EstruturasRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\EstruturasRepeticao\obj\Debug\net7.0\EstruturasRepeticao.dll
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\EstruturasRepeticao\obj\Debug\net7.0\refint\EstruturasRepeticao.dll
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\EstruturasRepeticao\obj\Debug\net7.0\EstruturasRepeticao.pdb
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\EstruturasRepeticao\obj\Debug\net7.0\EstruturasRepeticao.genruntimeconfig.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\EstruturasRepeticao\obj\Debug\net7.0\ref\EstruturasRepeticao.dll
