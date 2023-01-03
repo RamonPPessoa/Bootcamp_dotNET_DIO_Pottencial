@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ramon\\Documents\\cursosDIO\\dotNET\\Bootcamp\\Pottencial_dotNet\\OperadoresAritméticos\\OperadoresAritméticos.csproj",
+      "projectUniqueName": "C:\\Users\\ramon\\Documents\\cursosDIO\\dotNET\\Bootcamp\\Pottencial_dotNet\\OperadoresAritmeticos\\OperadoresAritméticos.csproj",
       "projectName": "OperadoresAritméticos",
-      "projectPath": "C:\\Users\\ramon\\Documents\\cursosDIO\\dotNET\\Bootcamp\\Pottencial_dotNet\\OperadoresAritméticos\\OperadoresAritméticos.csproj",
+      "projectPath": "C:\\Users\\ramon\\Documents\\cursosDIO\\dotNET\\Bootcamp\\Pottencial_dotNet\\OperadoresAritmeticos\\OperadoresAritméticos.csproj",
       "packagesPath": "C:\\Users\\ramon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ramon\\Documents\\cursosDIO\\dotNET\\Bootcamp\\Pottencial_dotNet\\OperadoresAritméticos\\obj\\",
+      "outputPath": "C:\\Users\\ramon\\Documents\\cursosDIO\\dotNET\\Bootcamp\\Pottencial_dotNet\\OperadoresAritmeticos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ramon\\AppData\\Roaming\\NuGet\\NuGet.Config",

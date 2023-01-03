@@ -26,5 +26,14 @@ namespace OperadoresAritméticos.Models
         {
             Console.WriteLine($"{n1} X {n2} = {n1 * n2}");
         }
+
+
+        public void Potencia(int x, int y)
+        {
+           double pot = Math.Pow(x,y);
+            System.Console.WriteLine($"{x} ^{y} = {pot}");
+        }
+
+       
     }
 }
