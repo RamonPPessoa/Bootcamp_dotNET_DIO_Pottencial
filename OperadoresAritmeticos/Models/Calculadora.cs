@@ -40,5 +40,11 @@ namespace OperadoresAritméticos.Models
             double seno = Math.Sin(radiano);
             System.Console.WriteLine($" Seno de {angulo}º = {Math.Round(seno,4)}");
         }
+
+        public void RaizQuadrada(double x)
+        {
+            double raizQ = Math.Sqrt(x);
+            System.Console.WriteLine($"A raiz quadrada de {x} = {raizQ} ");
+        }
     }
 }
