@@ -34,6 +34,11 @@ namespace OperadoresAritméticos.Models
             System.Console.WriteLine($"{x} ^{y} = {pot}");
         }
 
-       
+        public void Seno(double angulo)
+        {
+            double radiano = angulo * Math.PI / 180;
+            double seno = Math.Sin(radiano);
+            System.Console.WriteLine($" Seno de {angulo}º = {Math.Round(seno,4)}");
+        }
     }
 }
