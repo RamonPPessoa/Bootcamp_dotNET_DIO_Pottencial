@@ -10,3 +10,11 @@ for (int i =  0; i < arrayInteiro.Length; i++)
 {
     System.Console.WriteLine($"Posicao Nº: {i} = {arrayInteiro[i]}");
 }
+
+System.Console.WriteLine("Utilizando o foreach");
+int countForeach = 0;
+foreach (var item in arrayInteiro)
+{
+    System.Console.WriteLine($"Posição Nº{countForeach} =  {item}");
+    countForeach++;
+}
