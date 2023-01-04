@@ -1,0 +1,15 @@
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\ArrayEListas\bin\Debug\net7.0\ArrayEListas.exe
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\ArrayEListas\bin\Debug\net7.0\ArrayEListas.deps.json
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\ArrayEListas\bin\Debug\net7.0\ArrayEListas.runtimeconfig.json
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\ArrayEListas\bin\Debug\net7.0\ArrayEListas.dll
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\ArrayEListas\bin\Debug\net7.0\ArrayEListas.pdb
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\ArrayEListas\obj\Debug\net7.0\ArrayEListas.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\ArrayEListas\obj\Debug\net7.0\ArrayEListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\ArrayEListas\obj\Debug\net7.0\ArrayEListas.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\ArrayEListas\obj\Debug\net7.0\ArrayEListas.AssemblyInfo.cs
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\ArrayEListas\obj\Debug\net7.0\ArrayEListas.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\ArrayEListas\obj\Debug\net7.0\ArrayEListas.dll
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\ArrayEListas\obj\Debug\net7.0\refint\ArrayEListas.dll
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\ArrayEListas\obj\Debug\net7.0\ArrayEListas.pdb
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\ArrayEListas\obj\Debug\net7.0\ArrayEListas.genruntimeconfig.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\ArrayEListas\obj\Debug\net7.0\ref\ArrayEListas.dll
