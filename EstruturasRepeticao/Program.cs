@@ -1,8 +1,9 @@
 ﻿Console.WriteLine("======================MENU==============================");
 
  string opcao;
+ bool exibirMenu = true;
 
-while (true)
+while (exibirMenu)
  {
      Console.Clear();
     Console.WriteLine("Escolha uma opção");
@@ -28,7 +29,7 @@ while (true)
 
          case "4":
               Console.WriteLine("Encerrar");
-              Environment.Exit(0);
+              exibirMenu = false;
              break;
 
         
