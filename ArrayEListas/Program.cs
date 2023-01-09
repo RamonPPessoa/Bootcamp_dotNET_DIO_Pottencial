@@ -7,7 +7,9 @@ arrayInteiro[1] = 20;
 arrayInteiro[2] = 30;
 
 
-Array.Resize(ref arrayInteiro,arrayInteiro.Length * 2);
+int[] arrayInteiroDobro = new int[arrayInteiro.Length * 2];
+
+//Array.Resize(ref arrayInteiro,arrayInteiro.Length * 2);
 for (int i =  0; i < arrayInteiro.Length; i++) 
 {
     System.Console.WriteLine($"Posicao Nº: {i} = {arrayInteiro[i]}");
