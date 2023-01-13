@@ -7,7 +7,26 @@ namespace Propriedades_Metodos_Construtores.Models
 {
     public class Pessoa
     {
-         public string Nome{get;set;}
+
+        private string _nome;
+         public string Nome
+         {
+            get
+            {
+                return _nome.ToUpper();
+            }
+
+
+            set
+            {
+                if (value == "")
+                {
+                    throw new ArgumentException("O campo nome não pode ser vazio");
+                }
+                _nome = value;
+            }
+            
+        }
          public int Idade { get; set; }
 
 
