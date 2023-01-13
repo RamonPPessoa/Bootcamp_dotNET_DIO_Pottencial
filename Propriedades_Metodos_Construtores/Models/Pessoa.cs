@@ -11,10 +11,10 @@ namespace Propriedades_Metodos_Construtores.Models
         private string _nome;
          public string Nome
          {
-            get
-            {
-                return _nome.ToUpper();
-            }
+
+            // body expressions
+            get => _nome.ToUpper();
+            
 
 
             set
