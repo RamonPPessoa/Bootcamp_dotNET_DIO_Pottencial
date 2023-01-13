@@ -1,0 +1,15 @@
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Propriedades_Metodos_Construtores\bin\Debug\net7.0\Propriedades_Metodos_Construtores.exe
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Propriedades_Metodos_Construtores\bin\Debug\net7.0\Propriedades_Metodos_Construtores.deps.json
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Propriedades_Metodos_Construtores\bin\Debug\net7.0\Propriedades_Metodos_Construtores.runtimeconfig.json
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Propriedades_Metodos_Construtores\bin\Debug\net7.0\Propriedades_Metodos_Construtores.dll
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Propriedades_Metodos_Construtores\bin\Debug\net7.0\Propriedades_Metodos_Construtores.pdb
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Propriedades_Metodos_Construtores\obj\Debug\net7.0\Propriedades_Metodos_Construtores.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Propriedades_Metodos_Construtores\obj\Debug\net7.0\Propriedades_Metodos_Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Propriedades_Metodos_Construtores\obj\Debug\net7.0\Propriedades_Metodos_Construtores.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Propriedades_Metodos_Construtores\obj\Debug\net7.0\Propriedades_Metodos_Construtores.AssemblyInfo.cs
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Propriedades_Metodos_Construtores\obj\Debug\net7.0\Propriedades_Metodos_Construtores.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Propriedades_Metodos_Construtores\obj\Debug\net7.0\Propriedades_Metodos_Construtores.dll
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Propriedades_Metodos_Construtores\obj\Debug\net7.0\refint\Propriedades_Metodos_Construtores.dll
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Propriedades_Metodos_Construtores\obj\Debug\net7.0\Propriedades_Metodos_Construtores.pdb
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Propriedades_Metodos_Construtores\obj\Debug\net7.0\Propriedades_Metodos_Construtores.genruntimeconfig.cache
+C:\Users\ramon\Documents\cursosDIO\dotNET\Bootcamp\Pottencial_dotNet\Propriedades_Metodos_Construtores\obj\Debug\net7.0\ref\Propriedades_Metodos_Construtores.dll
