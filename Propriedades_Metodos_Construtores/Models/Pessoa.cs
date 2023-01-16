@@ -28,6 +28,10 @@ namespace Propriedades_Metodos_Construtores.Models
             }
             
         }
+
+        public string  Sobrenome { get; set; }
+        public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
+
          public int Idade 
          { 
             get => _idade;
@@ -35,10 +39,10 @@ namespace Propriedades_Metodos_Construtores.Models
             {
                 if (value < 0)
                 {
-                   throw new ArgumentException("A idade não pode ser menor que 0") 
+                   throw new ArgumentException("A idade não pode ser menor que zero");
                 }
 
-                _idade = value
+                _idade = value;
             }
             
         }
@@ -46,7 +50,7 @@ namespace Propriedades_Metodos_Construtores.Models
 
     public void Apresentar() 
     {
-        System.Console.WriteLine($"Nome: {Nome}, Idade:{Idade}");
+        System.Console.WriteLine($"Nome: {NomeCompleto}, Idade:{Idade}");
     }
 
     }
