@@ -13,7 +13,7 @@ namespace Propriedades_Metodos_Construtores.Models
             
         }
 
-        public Pessoa(string Nome,string Sobrenome)
+        public Pessoa(string nome,string sobrenome)
         {
             
         }
