@@ -20,5 +20,10 @@ namespace Propriedades_Metodos_Construtores.Models
             int quantidade = Alunos.Count;
             return quantidade;
         }
+
+        public bool RemoverAluno(Pessoa aluno)
+        {
+            return Alunos.Remove(aluno);
+        }
     }
 }
