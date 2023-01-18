@@ -20,7 +20,7 @@ switch (letra)
     System.Console.WriteLine("Não é vogal");
     break;
   
-  default:
+  
 }
 
 
