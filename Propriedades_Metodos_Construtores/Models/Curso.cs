@@ -14,5 +14,11 @@ namespace Propriedades_Metodos_Construtores.Models
         {
             Alunos.Add(aluno);
         }
+
+        public int ObterQtdDeAlunosMatriculados()
+        {
+            int quantidade = Alunos.Count;
+            return quantidade;
+        }
     }
 }
