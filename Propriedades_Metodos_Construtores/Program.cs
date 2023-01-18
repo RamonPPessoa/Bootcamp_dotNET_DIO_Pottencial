@@ -1,17 +1,10 @@
 ﻿using Propriedades_Metodos_Construtores.Models;
 
 
-Pessoa pessoa1 = new Pessoa();
-pessoa1.Nome = "João";
-pessoa1.Sobrenome = "Silva"; 
+Pessoa pessoa1 = new Pessoa("Joao","Buta");
+ 
+Pessoa pessoa2 = new Pessoa("Joaquim","Nunes");
 
-
-
-
-
-Pessoa pessoa2 = new Pessoa();
-pessoa2.Nome = "Joaquim";
-pessoa2.Sobrenome = "Nunes"; 
 
 
 
