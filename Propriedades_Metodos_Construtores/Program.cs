@@ -3,7 +3,7 @@
 
 Pessoa pessoa1 = new Pessoa("Joao","Buta");
  
-Pessoa pessoa2 = new Pessoa("Joaquim","Nunes");
+Pessoa pessoa2 = new Pessoa(nome:"Joaquim", sobrenome: "Nunes");
 
 
 
