@@ -11,7 +11,7 @@ CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("en-US");
 
 decimal valorMonetario = 1590.78M;
 
-System.Console.WriteLine($"{valorMonetario:C}");
+System.Console.WriteLine(valorMonetario.ToString("C",CultureInfo.CreateSpecificCulture("en-US")));
 
 
 
