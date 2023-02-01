@@ -1,9 +1,15 @@
 ﻿using Propriedades_Metodos_Construtores.Models;
+using System;
+using System.Globalization;
+
+// Formatação de acordo com a cultura
+
+CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("en-US");
 
 // Formatando valores monetários
 
 
-decimal valorMonetario = 1590.78M
+decimal valorMonetario = 1590.78M;
 
 System.Console.WriteLine($"{valorMonetario:C}");
 
