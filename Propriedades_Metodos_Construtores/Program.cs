@@ -1,23 +1,31 @@
 ﻿using Propriedades_Metodos_Construtores.Models;
 
+// Formatando valores monetários
 
-Pessoa pessoa1 = new Pessoa("Joao","Buta");
+
+decimal valorMonetario = 1590.78M
+
+System.Console.WriteLine($"{valorMonetario:C}");
+
+
+
+// Pessoa pessoa1 = new Pessoa("Joao","Buta");
  
-Pessoa pessoa2 = new Pessoa(nome:"Joaquim", sobrenome: "Nunes");
+// Pessoa pessoa2 = new Pessoa(nome:"Joaquim", sobrenome: "Nunes");
 
 
 
 
 
 
-Curso cursoIdiomas = new Curso();
-cursoIdiomas.Nome = "Inglês";
-cursoIdiomas.Alunos = new List<Pessoa>();
+// Curso cursoIdiomas = new Curso();
+// cursoIdiomas.Nome = "Inglês";
+// cursoIdiomas.Alunos = new List<Pessoa>();
 
 
-cursoIdiomas.AdicionarAluno(pessoa1);
-cursoIdiomas.AdicionarAluno(pessoa2);
-cursoIdiomas.ListarAlunos();
+// cursoIdiomas.AdicionarAluno(pessoa1);
+// cursoIdiomas.AdicionarAluno(pessoa2);
+// cursoIdiomas.ListarAlunos();
 
 
 // Pessoa pessoa1 = new Pessoa();
