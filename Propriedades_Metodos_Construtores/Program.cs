@@ -12,6 +12,15 @@ CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("en-US");
 decimal valorMonetario = 1590.78M;
 
 System.Console.WriteLine(valorMonetario.ToString("C2"));
+System.Console.WriteLine(valorMonetario.ToString("N2"));
+
+double porcentagem = .3421;
+
+System.Console.WriteLine(porcentagem.ToString("P"));
+
+
+int numero = 123456;
+System.Console.WriteLine(numero.ToString("##-##-##"));
 
 
 
