@@ -9,6 +9,10 @@ DateTime data = DateTime.Now;
 
 Console.WriteLine(data.ToString("yyyy-MM-dd HH:mm"));
 
+Console.WriteLine(data.ToShortTimeString());
+
+Console.WriteLine(data.ToShortDateString());
+
 
 
 
