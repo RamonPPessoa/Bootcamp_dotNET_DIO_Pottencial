@@ -3,15 +3,26 @@ using System;
 using System.Globalization;
 
 
-// DATE TIME
 
-DateTime data = DateTime.Now;
 
-Console.WriteLine(data.ToString("yyyy-MM-dd HH:mm"));
 
-Console.WriteLine(data.ToShortTimeString());
+string dataString = "2023-02-06  10:42";
+DateTime.TryParseExact(dataString,
+                        "yyyy-MM-dd  HH:mm",
+                        CultureInfo.InvariantCulture,
+                        DateTimeStyles.None,out DateTime data);
 
-Console.WriteLine(data.ToShortDateString());
+Console.WriteLine(data);
+
+// // DATE TIME
+
+// DateTime data = DateTime.Now;
+
+// Console.WriteLine(data.ToString("yyyy-MM-dd HH:mm"));
+
+// Console.WriteLine(data.ToShortTimeString());
+
+// Console.WriteLine(data.ToShortDateString());
 
 
 
