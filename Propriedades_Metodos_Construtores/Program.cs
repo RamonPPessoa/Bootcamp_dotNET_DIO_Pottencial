@@ -5,13 +5,24 @@ using System.Globalization;
 
 // Leitura de arquivo
 
-string[]linhas = File.ReadAllLines("Arquivos/arquivoLeitura.txt");
+
+try
+{
+    string[]linhas = File.ReadAllLines("Arquivos/arquivoLeitura.txt");
 
 
 foreach (var item in linhas)
 {
     System.Console.WriteLine(item);
 }
+}
+catch (Exception ex)
+{
+    System.Console.WriteLine($"Ocorreu uma execução generica.{ex.Message}");
+    
+}
+
+
 
 
 
