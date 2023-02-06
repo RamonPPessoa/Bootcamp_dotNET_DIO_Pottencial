@@ -3,16 +3,42 @@ using System;
 using System.Globalization;
 
 
+// Leitura de arquivo
+
+string[]linhas = File.ReadAllLines("Arquivos/arquivoLeitura.txt");
+
+
+foreach (var item in linhas)
+{
+    System.Console.WriteLine(item);
+}
 
 
 
-string dataString = "2023-02-06  10:42";
-DateTime.TryParseExact(dataString,
-                        "yyyy-MM-dd  HH:mm",
-                        CultureInfo.InvariantCulture,
-                        DateTimeStyles.None,out DateTime data);
 
-Console.WriteLine(data);
+
+
+
+
+
+
+// string dataString = "2023-02-06  10:42";
+// bool sucesso = DateTime.TryParseExact(dataString,
+//                         "yyyy-MM-dd  HH:mm",
+//                         CultureInfo.InvariantCulture,
+//                         DateTimeStyles.None,out DateTime data);
+
+
+// if (sucesso)
+// {
+//    System.Console.WriteLine($"Conversão com sucesso!  {data}"); 
+// }
+// else
+// {
+//     System.Console.WriteLine($"{dataString} não é uma data válida");
+// }
+
+// Console.WriteLine(data);
 
 // // DATE TIME
 
