@@ -2,25 +2,37 @@
 using System;
 using System.Globalization;
 
-// Formatação de acordo com a cultura
 
-CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("en-US");
+// DATE TIME
 
-// Formatando valores monetários
+DateTime data = DateTime.Now;
 
-
-decimal valorMonetario = 1590.78M;
-
-System.Console.WriteLine(valorMonetario.ToString("C2"));
-System.Console.WriteLine(valorMonetario.ToString("N2"));
-
-double porcentagem = .3421;
-
-System.Console.WriteLine(porcentagem.ToString("P"));
+Console.WriteLine(data.ToString("yyyy-MM-dd HH:mm"));
 
 
-int numero = 123456;
-System.Console.WriteLine(numero.ToString("##-##-##"));
+
+
+
+
+// // Formatação de acordo com a cultura
+
+// CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("en-US");
+
+// // Formatando valores monetários
+
+
+// decimal valorMonetario = 1590.78M;
+
+// System.Console.WriteLine(valorMonetario.ToString("C2"));
+// System.Console.WriteLine(valorMonetario.ToString("N2"));
+
+// double porcentagem = .3421;
+
+// System.Console.WriteLine(porcentagem.ToString("P"));
+
+
+// int numero = 123456;
+// System.Console.WriteLine(numero.ToString("##-##-##"));
 
 
 
