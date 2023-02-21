@@ -5,10 +5,11 @@ using System.Globalization;
 
 // Leitura de arquivo
 
+//Exceção genérica e especifica
 
 try
 {
-    string[]linhas = File.ReadAllLines("Arquivos/arquivoLeitura.txt");
+    string[]linhas = File.ReadAllLines("Arquivos/wow/arquivoLeitura.txt");
 
 
 foreach (var item in linhas)
@@ -16,11 +17,23 @@ foreach (var item in linhas)
     System.Console.WriteLine(item);
 }
 }
+catch (FileNotFoundException ex)
+{
+    System.Console.WriteLine($"Ocorreu uma execução generica.{ex.Message}");
+    
+}
+catch (DirectoryNotFoundException ex)
+{
+    System.Console.WriteLine($"Ocorreu um erro na leitura do arquivo.Caminho da pasta não encontrado.{ex.Message}");
+    
+}
 catch (Exception ex)
 {
     System.Console.WriteLine($"Ocorreu uma execução generica.{ex.Message}");
     
 }
+
+System.Console.WriteLine("Chegou até aqui");
 
 
 
