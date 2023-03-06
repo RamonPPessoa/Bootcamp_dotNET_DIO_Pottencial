@@ -13,7 +13,7 @@ public class UsuarioController : ControllerBase
     {
         var obj = new
         {
-            Data = DateTime.Now.ToLongDataString(),
+            Data = DateTime.Now.ToLongDateString(),
             Hora = DateTime.Now.ToShortTimeString()
 
            
