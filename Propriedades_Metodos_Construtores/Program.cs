@@ -32,8 +32,12 @@ catch (Exception ex)
     System.Console.WriteLine($"Ocorreu uma execução generica.{ex.Message}");
     
 }
+finally
+{
+    System.Console.WriteLine("Chegou até aqui");
+}
 
-System.Console.WriteLine("Chegou até aqui");
+
 
 
 
